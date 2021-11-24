@@ -1,0 +1,29 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "6bafc2ad-68a3-da07-052e-2b8f55296031",
+      "64035f9a-a78c-93a3-4db3-d6034513e534"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Principles of Chemical Science",
+  "course_description": "This course provides an introduction to the chemistry of biological, inorganic, and organic molecules.\u00a0The\u00a0emphasis is\u00a0on basic principles of atomic and molecular electronic structure, thermodynamics, acid-base and redox equilibria, chemical kinetics, and catalysis.\n\nIn an effort to illuminate connections between chemistry and biology, a list of the biology-, medicine-, and MIT research-related examples used in 5.111 is provided in [Biology-Related Examples](pages/biology-related-examples).\n\n##### Acknowledgements\n\nDevelopment and implementation of the biology-related materials in this course were funded through an HHMI Professors grant to Prof. Catherine L. Drennan. Videos and captioning were made possible and supported by the MIT Class of 2009.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.111",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
